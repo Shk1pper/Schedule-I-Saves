@@ -1,6 +1,8 @@
 @echo off
 setlocal EnableDelayedExpansion
 
+color 0A
+
 set "SAVE_PATH=%UserProfile%\AppData\LocalLow\TVGS\Schedule I\Saves\76561198081940642\SaveGame_1\Players"
 set "PLAYER_0=%SAVE_PATH%\Player_0"
 set "SHKIPPER=%SAVE_PATH%\Player_76561198081940642"
